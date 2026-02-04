@@ -1,0 +1,7 @@
+# Chinese Character Literacy Program
+# No external dependencies required
+# Python 3.6+ standard library only
+
+# For development (optional):
+# pytest>=7.0.0  # For running tests
+# black>=22.0.0  # For code formatting
